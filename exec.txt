@@ -1,0 +1,4 @@
+flex lngR.l
+bison -d lngR.y
+gcc lex.yy.c sem.c TS.c lngR.tab.c -o analyser
+analyser.exe

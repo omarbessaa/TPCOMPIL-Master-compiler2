@@ -1,0 +1,6 @@
+IF (89 < 4) AND (Iuh == 4)
+{
+Frt <- Iuy
+}
+INTEGER Gty
+INTEGER Gty
